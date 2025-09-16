@@ -1,10 +1,6 @@
 {
   "todoList": [
     {
-      "text": "学会Java",
-      "checked": false
-    },
-    {
       "text": "学会粤语",
       "checked": false
     },
