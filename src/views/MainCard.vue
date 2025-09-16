@@ -162,7 +162,7 @@
 
     <div class="footer">
       <p>
-        ©2025 Shian |
+        By Shian | ©2025 | <a href="https://icp.gov.moe/?keyword=20240301" target="_blank">萌ICP备20240301号</a> | 
         <a href="https://github.com/LiamBlog/Simple-Homepage">仓库</a>
       </p>
     </div>
